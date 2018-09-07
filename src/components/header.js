@@ -1,10 +1,10 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const Header = ({  }) => (
+const Header = ({}) => (
   <div
     style={{
-      background: 'green',
+      background: '#09899e',
       marginBottom: '1.45rem',
       textAlign: 'center',
     }}
@@ -24,8 +24,7 @@ const Header = ({  }) => (
             textDecoration: 'none',
           }}
         >
-        Awesome GraphQL Space
-         
+          Awesome GraphQL Space
         </Link>
       </h1>
     </div>
