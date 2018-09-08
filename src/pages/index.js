@@ -14,6 +14,17 @@ const IndexPage = () => (
         Prisma + NestJS Boilerplate Server
       </a>
     </h2>
+    <p>Building GraphQL server using NestJS & Prisma is fairly easy & simple.</p>
+    <h3>NestJS</h3>
+    <p>NestJS is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming). NestJS reduces the process involved in setting up a nodejs server.</p>
+    <p>
+    GraphQLModule in NestJS that is nothing more than a wrapper around the Apollo server. We don't reinvent the wheel but provide a ready to use a module instead, that brings a clean way to play with the GraphQL and Nest together. NestJS Framework has inbuilt support of Apollo Server 2 which is awesome
+    </p>
+    <h3>Prisma Client</h3>
+    <p> Prisma Client is an ORM for GraphQL server.
+    Prisma provides a mapping from your API to your database. In that sense, it solves similar problems as conventional ORMs.
+The big difference is the way how the mapping is implemented. Prisma takes a radically different approach which avoids the shortcomings and limitations commonly experienced with ORMs.</p>
+<p>Writing resolvers is hard & Prisma Client simply make it easy using <a href="https://github.com/prisma/graphql-resolver-codegen">GraphQL Resolver Codegen</a></p>
     <p className="index_para">
       For using Prisma as an end point you should signup to prisma replace the
       endpoint in your env file (in boilerplate). If you want to read more about
