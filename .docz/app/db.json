@@ -1,12 +1,120 @@
 {
   "config": {
-    "title": "Mycoolproject",
+    "title": "Docz Example Styled Components",
     "description": "My awesome app using docz",
     "themeConfig": {},
     "menu": [],
     "ordering": "descending",
+    "version": "0.12.4",
     "repository": null,
     "native": false
   },
-  "entries": {}
+  "entries": {
+    "src/index.mdx": {
+      "name": "Getting Started",
+      "route": "/",
+      "id": "6576455a124f9aaefd860597f03a8fe4",
+      "filepath": "src/index.mdx",
+      "link": null,
+      "slug": "src-index",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "getting-started",
+          "value": "Getting Started"
+        },
+        {
+          "depth": 2,
+          "slug": "consistency",
+          "value": "Consistency"
+        }
+      ]
+    },
+    "src/components/Alert.mdx": {
+      "name": "Alert",
+      "menu": "Components",
+      "id": "411d2842c3d65e6ee7d3ec119ed4c5a0",
+      "filepath": "src/components/Alert.mdx",
+      "link": null,
+      "slug": "src-components-alert",
+      "route": "/src-components-alert",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "alert",
+          "value": "Alert"
+        },
+        {
+          "depth": 2,
+          "slug": "properties",
+          "value": "Properties"
+        },
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic usage"
+        },
+        {
+          "depth": 2,
+          "slug": "using-different-kinds",
+          "value": "Using different kinds"
+        },
+        {
+          "depth": 2,
+          "slug": "use-with-children-as-a-function",
+          "value": "Use with children as a function"
+        }
+      ]
+    },
+    "src/components/Button.mdx": {
+      "name": "Button",
+      "menu": "Components",
+      "id": "94c04b4e4bd29ffbdeec8755c1a4c04f",
+      "filepath": "src/components/Button.mdx",
+      "link": null,
+      "slug": "src-components-button",
+      "route": "/src-components-button",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "button",
+          "value": "Button"
+        },
+        {
+          "depth": 3,
+          "slug": "best-practices",
+          "value": "Best practices"
+        },
+        {
+          "depth": 2,
+          "slug": "properties",
+          "value": "Properties"
+        },
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic usage"
+        },
+        {
+          "depth": 2,
+          "slug": "with-different-sizes",
+          "value": "With different sizes"
+        },
+        {
+          "depth": 2,
+          "slug": "with-different-colors",
+          "value": "With different colors"
+        },
+        {
+          "depth": 2,
+          "slug": "outlined",
+          "value": "Outlined"
+        }
+      ]
+    }
+  }
 }
