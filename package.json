@@ -1,23 +1,17 @@
 {
-  "name": "awesome-graphql-docs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "mycoolproject",
   "scripts": {
     "docz:dev": "docz dev",
     "docz:build": "docz build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/awesome-graphql-space/awesome-graphql-docs.git"
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "docz": "latest"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/awesome-graphql-space/awesome-graphql-docs/issues"
-  },
-  "homepage": "https://github.com/awesome-graphql-space/awesome-graphql-docs#readme",
   "dependencies": {
-    "docz": "^0.12.4"
+    "babel-loader": "^7.1.5",
+    "docz-theme-default": "^0.12.4",
+    "react-hot-loader": "^4.3.11"
   }
 }

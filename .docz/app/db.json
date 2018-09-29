@@ -1,0 +1,12 @@
+{
+  "config": {
+    "title": "Mycoolproject",
+    "description": "My awesome app using docz",
+    "themeConfig": {},
+    "menu": [],
+    "ordering": "descending",
+    "repository": null,
+    "native": false
+  },
+  "entries": {}
+}
