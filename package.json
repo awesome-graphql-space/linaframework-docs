@@ -1,5 +1,5 @@
 {
-  "name": "mycoolproject",
+  "name": "awesome-graphql-space",
   "scripts": {
     "docz:dev": "docz dev",
     "docz:build": "docz build"
