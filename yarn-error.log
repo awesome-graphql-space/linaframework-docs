@@ -1,0 +1,55 @@
+Arguments: 
+  /Users/manjuladube/.nvm/versions/node/v7.7.1/bin/node /usr/local/bin/yarn add docz --dev
+
+PATH: 
+  /Users/manjuladube/.nvm/versions/node/v7.7.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  0.21.3
+
+Node version: 
+  7.7.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "awesome-graphql-docs",
+    "description": "Awesome GraphQL Docs",
+    "version": "1.0.0",
+    "dependencies": {
+      "gatsby": "^1.9.277",
+      "gatsby-link": "^1.6.46",
+      "gatsby-plugin-react-helmet": "^2.0.11",
+      "react-helmet": "^5.2.0",
+      "serve": "^10.0.0"
+    },
+    "keywords": [
+      "gatsby"
+    ],
+    "license": "MIT",
+    "scripts": {
+      "build": "gatsby build",
+      "start": "serve public/",
+      "develop": "gatsby develop",
+      "format": "prettier --write 'src/**/*.js'",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+      "prettier": "^1.13.7"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/awesome-graphql-space/awesome-graphql-docs"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: EACCES: permission denied, unlink '/Users/manjuladube/Library/Caches/Yarn/npm-react-docgen-typescript-loader-3.0.0-4042e2854d29380e4d01e479d438c03ec00de8e8/.yarn-tarball.tgz'
