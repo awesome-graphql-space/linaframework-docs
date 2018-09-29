@@ -1,7 +1,7 @@
 {
   "config": {
-    "title": "Docz Example Styled Components",
-    "description": "My awesome app using docz",
+    "title": "Awesome GraphQL Space",
+    "description": "Awesome GraphQL Space",
     "themeConfig": {},
     "menu": [],
     "ordering": "descending",
@@ -11,7 +11,7 @@
   },
   "entries": {
     "src/index.mdx": {
-      "name": "Getting Started",
+      "name": "Awesome GraphQL Space",
       "route": "/",
       "id": "6576455a124f9aaefd860597f03a8fe4",
       "filepath": "src/index.mdx",
