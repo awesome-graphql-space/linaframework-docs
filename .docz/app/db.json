@@ -140,24 +140,13 @@
     ]
   },
   "entries": {
-    "authentication.mdx": {
-      "id": "bece3515a011331369703914244d6cc4",
-      "filepath": "authentication.mdx",
-      "link": null,
-      "slug": "authentication",
-      "route": "/authentication",
-      "name": "Authentication",
-      "order": 0,
-      "menu": null,
-      "headings": []
-    },
-    "home.mdx": {
+    "1-home.mdx": {
       "name": "Home",
       "route": "/",
-      "id": "7e165ea34e00ef78451a64f9e321a429",
-      "filepath": "home.mdx",
+      "id": "7b9593fbf64cf4df289651dec4bb3963",
+      "filepath": "1-home.mdx",
       "link": null,
-      "slug": "home",
+      "slug": "1-home",
       "order": 0,
       "menu": null,
       "headings": [
@@ -178,13 +167,13 @@
         }
       ]
     },
-    "installation.mdx": {
-      "id": "8611d72134d1e4a2e08fb3a7407fbc83",
-      "filepath": "installation.mdx",
+    "2-installation.mdx": {
+      "id": "6bf02db28f5098b85e0bcd162fb6a305",
+      "filepath": "2-installation.mdx",
       "link": null,
-      "slug": "installation",
-      "route": "/installation",
-      "name": "Installation",
+      "slug": "2-installation",
+      "route": "/2-installation",
+      "name": "2 installation",
       "order": 0,
       "menu": null,
       "headings": [
@@ -195,13 +184,24 @@
         }
       ]
     },
-    "modules.mdx": {
-      "id": "c8f5b07486171f8490454496e9a9eed0",
-      "filepath": "modules.mdx",
+    "3-modules.mdx": {
+      "id": "b5272c1619a89195af0e5b2a2804f308",
+      "filepath": "3-modules.mdx",
       "link": null,
-      "slug": "modules",
-      "route": "/modules",
-      "name": "Modules",
+      "slug": "3-modules",
+      "route": "/3-modules",
+      "name": "3 modules",
+      "order": 0,
+      "menu": null,
+      "headings": []
+    },
+    "4-authentication.mdx": {
+      "id": "6769d67a60102e8cbe5300263f189057",
+      "filepath": "4-authentication.mdx",
+      "link": null,
+      "slug": "4-authentication",
+      "route": "/4-authentication",
+      "name": "4 authentication",
       "order": 0,
       "menu": null,
       "headings": []

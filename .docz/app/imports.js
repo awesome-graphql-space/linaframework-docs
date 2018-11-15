@@ -1,10 +1,10 @@
 export const imports = {
-  'authentication.mdx': () =>
-    import(/* webpackPrefetch: true, webpackChunkName: "authentication" */ 'authentication.mdx'),
-  'home.mdx': () =>
-    import(/* webpackPrefetch: true, webpackChunkName: "home" */ 'home.mdx'),
-  'installation.mdx': () =>
-    import(/* webpackPrefetch: true, webpackChunkName: "installation" */ 'installation.mdx'),
-  'modules.mdx': () =>
-    import(/* webpackPrefetch: true, webpackChunkName: "modules" */ 'modules.mdx'),
+  '1-home.mdx': () =>
+    import(/* webpackPrefetch: true, webpackChunkName: "1-home" */ '1-home.mdx'),
+  '2-installation.mdx': () =>
+    import(/* webpackPrefetch: true, webpackChunkName: "2-installation" */ '2-installation.mdx'),
+  '3-modules.mdx': () =>
+    import(/* webpackPrefetch: true, webpackChunkName: "3-modules" */ '3-modules.mdx'),
+  '4-authentication.mdx': () =>
+    import(/* webpackPrefetch: true, webpackChunkName: "4-authentication" */ '4-authentication.mdx'),
 }
