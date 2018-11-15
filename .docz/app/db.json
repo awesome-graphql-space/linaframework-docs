@@ -140,109 +140,6 @@
     ]
   },
   "entries": {
-    "2-styles.mdx": {
-      "name": "2 - Styles",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/styles",
-      "id": "f7ccc521a73e1d913e20a9cea50d6563",
-      "filepath": "2-styles.mdx",
-      "link": null,
-      "slug": "2-styles",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "styles",
-          "value": "Styles"
-        },
-        {
-          "depth": 2,
-          "slug": "add-styles",
-          "value": "Add Styles"
-        }
-      ]
-    },
-    "5-build-next-favorite.mdx": {
-      "name": "5 - Build Next and Favorite UI",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/build-next",
-      "id": "fd69d08c0a6f6388515022a3354d1a64",
-      "filepath": "5-build-next-favorite.mdx",
-      "link": null,
-      "slug": "5-build-next-favorite",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "build-the-next-and-favorite-ui",
-          "value": "Build the Next and Favorite UI"
-        },
-        {
-          "depth": 2,
-          "slug": "install-react-icons",
-          "value": "Install  react-icons"
-        },
-        {
-          "depth": 2,
-          "slug": "add-the-boilerplate-jsx",
-          "value": "Add the boilerplate JSX"
-        },
-        {
-          "depth": 2,
-          "slug": "add-next-cat-functionality",
-          "value": "Add next cat functionality"
-        }
-      ]
-    },
-    "6-add-favorites.mdx": {
-      "name": "6 - Add Cats to favorites",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/build-favorites",
-      "id": "885a3dcb3e26c0fd3be711a4513bd9f9",
-      "filepath": "6-add-favorites.mdx",
-      "link": null,
-      "slug": "6-add-favorites",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "add-cats-to-favorites",
-          "value": "Add Cats to favorites"
-        },
-        {
-          "depth": 2,
-          "slug": "create-the-add-favorite-function",
-          "value": "Create the add favorite function"
-        },
-        {
-          "depth": 2,
-          "slug": "call-the-function",
-          "value": "Call the function"
-        },
-        {
-          "depth": 2,
-          "slug": "add-the-jsx",
-          "value": "Add the JSX"
-        }
-      ]
-    },
-    "7-refactor-render.mdx": {
-      "name": "7 - Refactor Render",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/refactor-render",
-      "id": "272e83eaa5d5d3ed62b6802e89874dda",
-      "filepath": "7-refactor-render.mdx",
-      "link": null,
-      "slug": "7-refactor-render",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "refactor-render",
-          "value": "Refactor Render"
-        }
-      ]
-    },
     "home.mdx": {
       "name": "Home",
       "route": "/",
@@ -260,8 +157,8 @@
         },
         {
           "depth": 2,
-          "slug": "where-does-lina-fit-into",
-          "value": "Where does Lina fit into"
+          "slug": "where-does-lina-fit-into-",
+          "value": "Where does Lina fit into ?"
         },
         {
           "depth": 2,
