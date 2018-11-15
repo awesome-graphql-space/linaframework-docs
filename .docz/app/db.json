@@ -167,6 +167,17 @@
         }
       ]
     },
+    "1.1-architecture.mdx": {
+      "id": "907f1932f47883c45f86fcc7dd375bff",
+      "filepath": "1.1-architecture.mdx",
+      "link": null,
+      "slug": "1-1-architecture",
+      "route": "/1-1-architecture",
+      "name": "1.1 architecture",
+      "order": 0,
+      "menu": null,
+      "headings": []
+    },
     "2-installation.mdx": {
       "id": "6bf02db28f5098b85e0bcd162fb6a305",
       "filepath": "2-installation.mdx",
