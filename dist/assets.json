@@ -1,12 +1,12 @@
 {
-  "vendors.js": "/static/js/vendors.abd58db5.js",
-  "2-styles.js": "/static/js/2-styles.53ab3e7f.js",
-  "5-build-next-favorite.js": "/static/js/5-build-next-favorite.289157c0.js",
-  "6-add-favorites.js": "/static/js/6-add-favorites.7e598fbe.js",
-  "7-refactor-render.js": "/static/js/7-refactor-render.bc9c7ddc.js",
-  "app.js": "/static/js/app.5bf831c2.js",
-  "home.js": "/static/js/home.ef404af0.js",
-  "runtime~app.js": "/static/js/runtime~app.2fb3b51672f327318873.js",
-  "static/js/8.8940e279.js": "/static/js/8.8940e279.js",
+  "1-1-architecture.js": "/static/js/1-1-architecture.a2558e32.js",
+  "1-home.js": "/static/js/1-home.b44a9c8c.js",
+  "2-installation.js": "/static/js/2-installation.627adbe6.js",
+  "3-modules.js": "/static/js/3-modules.2701bf50.js",
+  "4-authentication.js": "/static/js/4-authentication.42a9a160.js",
+  "app.js": "/static/js/app.262d3491.js",
+  "runtime~app.js": "/static/js/runtime~app.707a69fc0b0b5af6d86b.js",
+  "vendors.js": "/static/js/vendors.8a310ed9.js",
+  "static/js/8.b9672b0a.js": "/static/js/8.b9672b0a.js",
   "index.html": "/index.html"
 }
