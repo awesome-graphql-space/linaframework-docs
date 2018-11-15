@@ -4,7 +4,7 @@
     "description": "ReactJSGirls Workshops",
     "themeConfig": {
       "logo": {
-        "src": "https://cdn.rawgit.com/ReactJSGirls/reactjsgirls-docs/ca538038/images/logo.png",
+        "src": "https://cdn1.imggmi.com/uploads/2018/9/29/0a7d1413bd0bafe47d4be7df23505382-full.png",
         "width": 150
       },
       "colors": {
@@ -140,43 +140,6 @@
     ]
   },
   "entries": {
-    "1-set-up.mdx": {
-      "name": "1 - Set Up",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/set-up",
-      "id": "40d94fd2a9fa6b385edea9e47c8cb90d",
-      "filepath": "1-set-up.mdx",
-      "link": null,
-      "slug": "1-set-up",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "set-up",
-          "value": "Set Up"
-        },
-        {
-          "depth": 2,
-          "slug": "create-a-new-sandbox",
-          "value": "Create a new Sandbox"
-        },
-        {
-          "depth": 2,
-          "slug": "the-code",
-          "value": "The code"
-        },
-        {
-          "depth": 2,
-          "slug": "changes-to-the-template",
-          "value": "Changes to the template"
-        },
-        {
-          "depth": 4,
-          "slug": "converting-functional-component-to-a-class",
-          "value": "Converting functional component to a class"
-        }
-      ]
-    },
     "2-styles.mdx": {
       "name": "2 - Styles",
       "menu": "Tinder For Cats",
@@ -196,65 +159,6 @@
           "depth": 2,
           "slug": "add-styles",
           "value": "Add Styles"
-        }
-      ]
-    },
-    "3-starter-jsx.mdx": {
-      "name": "3 - Starter JSX",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/starter-jsx",
-      "id": "e2b0907d9b9ba14077629f93f1e977ad",
-      "filepath": "3-starter-jsx.mdx",
-      "link": null,
-      "slug": "3-starter-jsx",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "starter-jsx",
-          "value": "Starter JSX"
-        },
-        {
-          "depth": 2,
-          "slug": "lets-add-the-starter-jsx",
-          "value": "Let's add the starter JSX"
-        }
-      ]
-    },
-    "4-get-cat.mdx": {
-      "name": "4 - Get Cat",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/call-the-api",
-      "id": "42197915c6b1ea6e3b97d652ae08bade",
-      "filepath": "4-get-cat.mdx",
-      "link": null,
-      "slug": "4-get-cat",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "get-new-cat-on-page-load",
-          "value": "Get New Cat on Page Load"
-        },
-        {
-          "depth": 2,
-          "slug": "the-api",
-          "value": "The API"
-        },
-        {
-          "depth": 2,
-          "slug": "call-this-api",
-          "value": "Call this API"
-        },
-        {
-          "depth": 2,
-          "slug": "call-the-getcat-on-page-load",
-          "value": "Call the  getCat  on page load"
-        },
-        {
-          "depth": 2,
-          "slug": "updating-the-render",
-          "value": "Updating the render"
         }
       ]
     },
@@ -336,45 +240,6 @@
           "depth": 1,
           "slug": "refactor-render",
           "value": "Refactor Render"
-        }
-      ]
-    },
-    "8-remove-favorites.mdx": {
-      "name": "8 - Remove Cats from favorites",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/remove-favorites",
-      "id": "8e62b90380d12bfcff92f18dae291a1f",
-      "filepath": "8-remove-favorites.mdx",
-      "link": null,
-      "slug": "8-remove-favorites",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "remove-cats-from-favorites",
-          "value": "Remove Cats from favorites"
-        }
-      ]
-    },
-    "9-disable-like.mdx": {
-      "name": "9 - Disable Like",
-      "menu": "Tinder For Cats",
-      "route": "/tinder-for-cats/disable-like",
-      "id": "771c0de165d27e2d415978d00fcb60c4",
-      "filepath": "9-disable-like.mdx",
-      "link": null,
-      "slug": "9-disable-like",
-      "order": 0,
-      "headings": [
-        {
-          "depth": 1,
-          "slug": "disable-like",
-          "value": "Disable Like"
-        },
-        {
-          "depth": 2,
-          "slug": "write-the-function",
-          "value": "Write the function"
         }
       ]
     },
