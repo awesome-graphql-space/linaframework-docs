@@ -166,6 +166,23 @@
           "value": "Lina Alternatives"
         }
       ]
+    },
+    "installation.mdx": {
+      "id": "8611d72134d1e4a2e08fb3a7407fbc83",
+      "filepath": "installation.mdx",
+      "link": null,
+      "slug": "installation",
+      "route": "/installation",
+      "name": "Installation",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 2,
+          "slug": "installation",
+          "value": "Installation"
+        }
+      ]
     }
   }
 }
