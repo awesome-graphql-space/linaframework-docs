@@ -8,7 +8,7 @@
         "width": 150
       },
       "colors": {
-        "primary": "#3097F7",
+        "primary": "#FC997A",
         "text": "#13161F",
         "link": "#1FB6FF",
         "footerText": "#2D3747",
@@ -140,6 +140,17 @@
     ]
   },
   "entries": {
+    "authentication.mdx": {
+      "id": "bece3515a011331369703914244d6cc4",
+      "filepath": "authentication.mdx",
+      "link": null,
+      "slug": "authentication",
+      "route": "/authentication",
+      "name": "Authentication",
+      "order": 0,
+      "menu": null,
+      "headings": []
+    },
     "home.mdx": {
       "name": "Home",
       "route": "/",
@@ -183,6 +194,17 @@
           "value": "Installation"
         }
       ]
+    },
+    "modules.mdx": {
+      "id": "c8f5b07486171f8490454496e9a9eed0",
+      "filepath": "modules.mdx",
+      "link": null,
+      "slug": "modules",
+      "route": "/modules",
+      "name": "Modules",
+      "order": 0,
+      "menu": null,
+      "headings": []
     }
   }
 }
