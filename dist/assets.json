@@ -1,0 +1,18 @@
+{
+  "vendors.js": "/static/js/vendors.4da67746.js",
+  "1-set-up.js": "/static/js/1-set-up.ab2c5923.js",
+  "2-styles.js": "/static/js/2-styles.c84529d0.js",
+  "3-starter-jsx.js": "/static/js/3-starter-jsx.18f7c75a.js",
+  "4-get-cat.js": "/static/js/4-get-cat.a68b1b55.js",
+  "5-build-next-favorite.js": "/static/js/5-build-next-favorite.93152278.js",
+  "6-add-favorites.js": "/static/js/6-add-favorites.53acb36f.js",
+  "7-refactor-render.js": "/static/js/7-refactor-render.ee8608b1.js",
+  "8-remove-favorites.js": "/static/js/8-remove-favorites.c2599b04.js",
+  "9-disable-like.js": "/static/js/9-disable-like.5703b68f.js",
+  "app.js": "/static/js/app.08988a95.js",
+  "home.js": "/static/js/home.ba554937.js",
+  "runtime~app.js": "/static/js/runtime~app.ce92e4804aade87ad848.js",
+  "static/js/13.a5b23afe.js": "/static/js/13.a5b23afe.js",
+  "index.html": "/index.html",
+  "static/img/starter.png": "/static/img/starter.fe019056.png"
+}
