@@ -1,18 +1,28 @@
 {
-  "name": "docz-example-styled-components",
-  "version": "0.12.4",
+  "name": "LinaFramework",
+  "version": "1.0.0",
+  "description": "Lina Framework",
+  "main": "index.js",
+  "author": "Manjula Dube",
   "license": "MIT",
   "scripts": {
     "dev": "docz dev",
-    "build": "docz build"
-  },
-  "dependencies": {
-    "prop-types": "^15.6.2",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "styled-components": "^3.4.9"
+    "build": "docz build",
+    "start": "serve dist",
+    "format": "prettier --write '**/*.{js,css,md}'",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
   },
   "devDependencies": {
-    "docz": "^0.12.4"
+    "all-contributors-cli": "^5.4.0",
+    "docz": "^0.12.5",
+    "docz-plugin-css": "^0.11.0",
+    "serve": "^10.0.2"
+  },
+  "dependencies": {
+    "prism-react-renderer": "^0.1.4",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-icons": "^3.1.0",
+    "recompose": "^0.30.0"
   }
 }
