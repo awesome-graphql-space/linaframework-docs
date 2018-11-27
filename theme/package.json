@@ -24,7 +24,7 @@
     "codemirror": "^5.40.0",
     "copy-text-to-clipboard": "^1.0.4",
     "docz": "^0.12.5",
-    "emotion": "^9.2.9",
+    "emotion": "^10.0.0",
     "emotion-theming": "^9.2.9",
     "facepaint": "^1.2.1",
     "hotkeys-js": "^3.3.7",
