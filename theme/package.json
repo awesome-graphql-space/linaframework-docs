@@ -60,7 +60,7 @@
     "@types/react": "^16.4.14",
     "@types/react-dom": "^16.0.6",
     "babel-loader": "^8.0.2",
-    "babel-plugin-emotion": "^9.2.9",
+    "babel-plugin-emotion": "^10.0.0",
     "cross-env": "^5.2.0",
     "css-loader": "^1.0.0",
     "filemanager-webpack-plugin": "^2.0.5",
