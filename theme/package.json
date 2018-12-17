@@ -23,7 +23,7 @@
   "dependencies": {
     "codemirror": "^5.40.0",
     "copy-text-to-clipboard": "^1.0.4",
-    "docz": "^0.12.5",
+    "docz": "^0.13.0",
     "emotion": "^9.2.9",
     "emotion-theming": "^9.2.9",
     "facepaint": "^1.2.1",
